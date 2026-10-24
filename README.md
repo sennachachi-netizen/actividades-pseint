@@ -1,6 +1,6 @@
 # Actividades de PSeInt
 
-Este repositorio contiene las actividades realizadas en PSeInt y organizadas para entregarlas al profesor.
+Este repositorio contiene las actividades realizadas en PSeInt y organizadas.
 
 ## Índice
 
@@ -14,7 +14,7 @@ Este repositorio contiene las actividades realizadas en PSeInt y organizadas par
 
 - Cada actividad tiene su propia carpeta.
 - Dentro se encuentra el archivo `.psc` con el código fuente de PSeInt.
-- El repositorio está pensado para ser compartido y revisado fácilmente por el profesor.
+
 
 ## Autor
 
